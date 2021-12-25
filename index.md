@@ -16,10 +16,3 @@ EP3I标准 即由E、P和三个I组成
 
 [友链：咕鸽地图 Powered By 北豆卫星](https://map.ubb.asia).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jared2021-cn/ep3i/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
