@@ -1,30 +1,20 @@
 ## EP3I标准
 
-什么是EP3I标准？我达到EP3I标准了吗？EP3I标准在哪里生效？谁制定了EP3I标准？
+什么是EP3I标准？我达到EP3I标准了吗？EP3I标准在哪里生效？谁制定了EP3I标准？它的发展史是怎样的？
 
-### Markdown
+### EP3I标准的定义
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+EP3I标准 即由E、P和三个I组成
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+- EQ（情商 - 较高要求）
+- PC（个人计算机）
+- IQ（智商 - 较高要求）
+- ID（Minecraft JE正版）
+- IP（豆服在互联网上的连接地址）
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+[友链：咕鸽地图 Powered By 北豆卫星](https://map.ubb.asia).
 
 ### Jekyll Themes
 
