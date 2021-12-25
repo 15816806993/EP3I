@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## EP3I标准
 
-You can use the [editor on GitHub](https://github.com/jared2021-cn/ep3i/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+什么是EP3I标准？我达到EP3I标准了吗？EP3I标准在哪里生效？谁制定了EP3I标准？
 
 ### Markdown
 
