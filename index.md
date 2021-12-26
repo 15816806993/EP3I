@@ -54,6 +54,7 @@ EP3I标准中的3I由Lei_Fang_提出，jared2021概括，后由Lanyangyang_CN补
 - huangyu_idid - EP3I.TOP域名拥有者
 - TheCuberHat - 30²精神永存
 - CuteStarX - EP3I Server初期建设
+- 0x0027 - EP3I Server初期建设
 - g2nnyS - EP3I Server初期建设
 - LH_Sowang - EP3I Server初期建设
 - Lei_Fang_ - 3I创造者，EP3I Server初期建设
