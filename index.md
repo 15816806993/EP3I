@@ -13,8 +13,9 @@ EP3I标准 即由E、P和三个I组成
 - ID（Minecraft JE正版）
 - IP（豆服在互联网上的连接地址）
 
-[Minecraft正版购买](https://minecraft.net).
-[咕鸽地图 Powered By 北豆卫星](https://map.ubb.asia).
+[Minecraft正版官网](https://minecraft.net)
+
+[咕鸽地图 Powered By 北豆卫星](https://map.ubb.asia)
 
 ### 如何判断我是否达到EP3I标准
 
