@@ -48,3 +48,13 @@ EP3I标准中的3I由Lei_Fang_提出，jared2021概括，后由Lanyangyang_CN补
 我们在ep3i.top开设了一个Minecraft服务器，意在帮助你更好地了解EP3I，此服务器属于非盈利性质，简单的来说你可以把它当生存服玩。
 你在此服务器中的行为将不会对任何事有影响
 
+### 鸣谢（排名不分先后，若有遗漏请联系我）
+
+- jared2021 - EP3I Server贡献者
+- huangyu_idid - EP3I.TOP域名拥有者
+- TheCuberHat - 30²精神永存
+- CuteStarX - EP3I Server初期建设
+- g2nnyS - EP3I Server初期建设
+- LH_Sowang - EP3I Server初期建设
+- Lei_Fang_ - 3I创造者，EP3I Server初期建设
+- Lanyangyang_CN - EP创造者
