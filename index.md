@@ -59,3 +59,4 @@ EP3I标准中的3I由Lei_Fang_提出，jared2021概括，后由Lanyangyang_CN补
 - LH_Sowang - EP3I Server初期建设
 - Lei_Fang_ - 3I创造者，EP3I Server初期建设
 - Lanyangyang_CN - EP创造者
+- Sslk_yanmo - 精神股东
